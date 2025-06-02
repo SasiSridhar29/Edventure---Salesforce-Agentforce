@@ -28,3 +28,9 @@ See how they built it in our new "How I Solved It" episode: https://sforce.co/42
 ## Salesforce's blog post
 checkItout 
 https://admin.salesforce.com/blog/2025/inspiring-agentforce-use-cases-for-salesforce-admins
+
+## perview 
+![](img/2.png)
+![](img/4.png)
+![](img/5.png)
+![](img/3.png)
